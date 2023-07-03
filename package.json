@@ -20,7 +20,7 @@
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev":"npm run start",
+    "dev":"npm start",
     "build":"npm i",
     "start": "node index.js"
 
